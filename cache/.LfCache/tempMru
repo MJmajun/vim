@@ -1,0 +1,17 @@
+/home/majun/.vimrc
+/home/majun/wis/serial.mk
+/home/majun/wis/wvas_fss/frame/check_running.c
+/home/majun/wis/wvas_fss/data/wvas_fss_data.c
+/home/majun/wis/wvas_fss/cli/ap/wvas_fss_ap_cli.c
+/home/majun/wis/wvas_fss/cli/wvas_fss_cfg.c
+/home/majun/wis/wvas_fss/cli/wvas_fss_cfg.h
+/home/majun/wis/wvas_fss/mib/ac_mib_api.c
+/home/majun/wis/wvas_fss/interf/wvas_fss_interf.h
+/home/majun/wis/wvas_fss/interf/wvas_fss_interf.c
+/home/majun/.bashrc
+/home/majun/mj.txt
+/home/majun/.config/clash/config.yaml
+/root/.vimrc
+/root/ir8/inhand/lqm/lqm.c
+/root/ir8/inhand/lqm/lqm.h
+/root/ir8/inhand/firewall/ih_fw.c
